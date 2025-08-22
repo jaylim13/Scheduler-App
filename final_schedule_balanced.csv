@@ -1,0 +1,71 @@
+day,shift_time,employee1,employee2,employee3,employee4,employee5,employee6
+Monday,09:00-10:00,Jonathan Nwokeji,Tracy Dang,Katun Li,Keith Perez,Harley Koch,Nandan Pullakandam
+Monday,10:00-11:00,Prachi Joshi,Alex Yang,Jimena Rivera,Jack Coury,Grace Odondi,James Dankwah
+Monday,11:00-12:00,Rebecca Henriques,Daniel Wang,Jack Coury,Tobenna Okoli,Luke Briden,Zara Tekmen
+Monday,12:00-13:00,Grace Odondi,James Dankwah,Tobenna Okoli,Shana Tran,Enis Sevim,Alexander Yevchenko
+Monday,13:00-14:00,Onyi Igwe,Luke Briden,Enis Sevim,Bryen Alvarez,Ethan Tran,Keith Perez
+Monday,14:00-15:00,Paige Pan,Shayna Patel,Claire Madsen,Ryan Krasinski,Vraj Hingoo,Yewon Song
+Monday,15:00-16:00,Wei Jiang,Henry Rowen,Alex Xiao,Claire Madsen,Suhani Tailor,Katie Brown
+Monday,16:00-17:00,Zara Tekmen,Suhani Tailor,Katie Brown,Alex Xiao,Lila Anafi,Shruthi Ramireddy
+Monday,17:00-18:00,Esha Raikwar,Ivy Nangalia,Phoebe Chen,Luke Aiello,Shruti Patel,Zackary Fick
+Monday,18:00-19:00,Alexander Yevchenko,Jayden Lim,Bryen Alvarez,Henry Rowen,Alexander Toney,Kautilya Chopra
+Monday,19:00-20:00,Ryan Krasinski,Luke Aiello,Ethan Tran,Amit Khanal,Bettina George,Malak Soubai
+Monday,20:00-21:00,Austin Hill,Shruti Patel,Zackary Fick,Aditya More,Lucas Sharpe,Richard Lin
+Monday,21:00-22:00,Amir Dillard,Lila Anafi,Vraj Hingoo,Enci Zhang,Shana Tran,Harley Koch
+Tuesday,09:00-10:00,Caroline Bryan,Yewon Song,Shruthi Ramireddy,Neha Bharadwaj,Nandan Pullakandam,Jack Coury
+Tuesday,10:00-11:00,Alexander Toney,Kautilya Chopra,Malak Soubai,Grace Odondi,James Dankwah,Tobenna Okoli
+Tuesday,11:00-12:00,Richard Lin,Enci Zhang,Harley Koch,Henry Rowen,Enis Sevim,Claire Madsen
+Tuesday,12:00-13:00,Bettina George,Jonathan Nwokeji,Prachi Joshi,Bryen Alvarez,Ethan Tran,Yewon Song
+Tuesday,13:00-14:00,Amit Khanal,Shana Tran,Nandan Pullakandam,Alex Xiao,Alexander Yevchenko,Suhani Tailor
+Tuesday,14:00-15:00,Wei Jiang,Ivy Nangalia,Shayna Patel,Alexander Toney,Kautilya Chopra,Amit Khanal
+Tuesday,15:00-16:00,Keith Perez,Jimena Rivera,Daniel Wang,Bettina George,Malak Soubai,Richard Lin
+Tuesday,16:00-17:00,Aditya More,Caroline Bryan,Jack Coury,Zara Tekmen,Katie Brown,Shruti Patel
+Tuesday,17:00-18:00,Neha Bharadwaj,Lucas Sharpe,Tracy Dang,Ryan Krasinski,Luke Aiello,Vraj Hingoo
+Tuesday,18:00-19:00,Katun Li,Alex Yang,Rebecca Henriques,Keith Perez,Shruthi Ramireddy,Neha Bharadwaj
+Tuesday,19:00-20:00,Onyi Igwe,Paige Pan,Phoebe Chen,Zackary Fick,Aditya More,Lucas Sharpe
+Tuesday,20:00-21:00,Grace Odondi,James Dankwah,Tobenna Okoli,Enci Zhang,Shana Tran,Harley Koch
+Tuesday,21:00-22:00,Henry Rowen,Alex Xiao,Enis Sevim,Amir Dillard,Nandan Pullakandam,Jack Coury
+Wednesday,09:00-10:00,Austin Hill,Bryen Alvarez,Luke Aiello,Grace Odondi,James Dankwah,Alex Xiao
+Wednesday,10:00-11:00,Alexander Yevchenko,Ethan Tran,Shruti Patel,Henry Rowen,Enis Sevim,Bryen Alvarez
+Wednesday,11:00-12:00,Luke Briden,Suhani Tailor,Ryan Krasinski,Alexander Yevchenko,Luke Aiello,Ethan Tran
+Wednesday,12:00-13:00,Keith Perez,Neha Bharadwaj,Alexander Toney,Luke Briden,Kautilya Chopra,Aditya More
+Wednesday,13:00-14:00,Zara Tekmen,Yewon Song,Kautilya Chopra,Luke Briden,Neha Bharadwaj,Alexander Toney
+Wednesday,14:00-15:00,Claire Madsen,Katie Brown,Vraj Hingoo,Zara Tekmen,Ryan Krasinski,Yewon Song
+Wednesday,15:00-16:00,Bettina George,Malak Soubai,Richard Lin,Tobenna Okoli,Claire Madsen,Katie Brown
+Wednesday,16:00-17:00,Lila Anafi,Enci Zhang,Shana Tran,Vraj Hingoo,Malak Soubai,Richard Lin
+Wednesday,17:00-18:00,Zackary Fick,Shruthi Ramireddy,Lucas Sharpe,Enci Zhang,Shana Tran,Harley Koch
+Wednesday,18:00-19:00,Aditya More,Harley Koch,Nandan Pullakandam,Shruthi Ramireddy,Bettina George,Lucas Sharpe
+Wednesday,19:00-20:00,Amit Khanal,Jonathan Nwokeji,Tracy Dang,Nandan Pullakandam,Grace Odondi,James Dankwah
+Wednesday,20:00-21:00,Katun Li,Prachi Joshi,Alex Yang,Amit Khanal,Tobenna Okoli,Alex Xiao
+Wednesday,21:00-22:00,Amir Dillard,Ivy Nangalia,Jimena Rivera,Henry Rowen,Enis Sevim,Claire Madsen
+Thursday,09:00-10:00,Caroline Bryan,Rebecca Henriques,Onyi Igwe,Amir Dillard,Katie Brown,Bryen Alvarez
+Thursday,10:00-11:00,Jack Coury,Grace Odondi,James Dankwah,Amir Dillard,Shruthi Ramireddy,Alexander Toney
+Thursday,11:00-12:00,Alex Xiao,Enis Sevim,Claire Madsen,Ethan Tran,Kautilya Chopra,Richard Lin
+Thursday,12:00-13:00,Suhani Tailor,Bryen Alvarez,Amir Dillard,Enci Zhang,,
+Thursday,13:00-14:00,Alexander Yevchenko,Ryan Krasinski,Ethan Tran,Shruti Patel,Amit Khanal,Nandan Pullakandam
+Thursday,14:00-15:00,Shayna Patel,Daniel Wang,Henry Rowen,,,
+Thursday,15:00-16:00,Shruti Patel,Lila Anafi,Keith Perez,,,
+Thursday,16:00-17:00,Tobenna Okoli,Zara Tekmen,Austin Hill,Aditya More,,
+Thursday,17:00-18:00,Wei Jiang,Luke Aiello,Vraj Hingoo,Zara Tekmen,Lucas Sharpe,
+Thursday,18:00-19:00,Paige Pan,Yewon Song,Neha Bharadwaj,,,
+Thursday,19:00-20:00,Zackary Fick,Alexander Toney,Kautilya Chopra,,,
+Thursday,20:00-21:00,Shruthi Ramireddy,Aditya More,Amit Khanal,,,
+Thursday,21:00-22:00,Bettina George,Malak Soubai,Lucas Sharpe,,,
+Friday,09:00-10:00,Richard Lin,Enci Zhang,Shana Tran,,,
+Friday,10:00-11:00,Harley Koch,Nandan Pullakandam,Jonathan Nwokeji,,,
+Friday,11:00-12:00,Luke Briden,Wei Jiang,Ivy Nangalia,,,
+Friday,12:00-13:00,Jimena Rivera,Rebecca Henriques,Daniel Wang,,,
+Friday,13:00-14:00,Katun Li,Shayna Patel,Grace Odondi,,,
+Friday,14:00-15:00,Katie Brown,Tracy Dang,Onyi Igwe,,,
+Friday,15:00-16:00,James Dankwah,Tobenna Okoli,Alex Xiao,,,
+Friday,16:00-17:00,Prachi Joshi,Enis Sevim,Claire Madsen,,,
+Friday,17:00-18:00,Jack Coury,Henry Rowen,Zara Tekmen,,,
+Friday,18:00-19:00,Alexander Yevchenko,Suhani Tailor,Bryen Alvarez,,,
+Friday,19:00-20:00,Ryan Krasinski,Luke Aiello,Shruti Patel,,,
+Friday,20:00-21:00,Zackary Fick,Lila Anafi,Vraj Hingoo,,,
+Friday,21:00-22:00,Amir Dillard,Yewon Song,Shruthi Ramireddy,,,
+Sunday,13:00-14:00,Phoebe Chen,Luke Briden,Katie Brown,,,
+Sunday,14:00-15:00,Phoebe Chen,Ethan Tran,Neha Bharadwaj,,,
+Sunday,15:00-16:00,Alexander Toney,Kautilya Chopra,Aditya More,,,
+Sunday,16:00-17:00,Amit Khanal,Bettina George,Malak Soubai,,,
+Sunday,17:00-18:00,Lucas Sharpe,Richard Lin,Enci Zhang,,,
