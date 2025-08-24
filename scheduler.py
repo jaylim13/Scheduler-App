@@ -11,12 +11,12 @@ scheduled_hours = {emp: 0 for emp in max_hours}
 
 # Define shift hours
 shift_hours = {
-    "Monday": list(range(9, 22)),
-    "Tuesday": list(range(9, 22)),
-    "Wednesday": list(range(9, 22)),
-    "Thursday": list(range(9, 22)),
-    "Friday": list(range(9, 22)),
-    "Sunday": list(range(13, 18))  # 1pm-5pm only
+    "Monday": list(range(11, 17)),
+    "Tuesday": list(range(11, 17)),
+    "Wednesday": list(range(11, 17)),
+    "Thursday": list(range(11, 17)),
+    "Friday": list(range(11, 17)),
+    "Sunday": list(range(13, 17))  # 1pm-5pm only
 }
 
 # Initialize availability dict
@@ -39,7 +39,7 @@ for _, row in unavailability.iterrows():
             availability_dict[day][hour].remove(emp)
 
 MIN_EMP = 3
-MAX_EMP = 6
+MAX_EMP = 10
 schedule = defaultdict(list)
 
 # ------------------ Two-pass balanced scheduling ------------------
@@ -91,3 +91,9 @@ schedule_df = pd.DataFrame(output_rows, columns=columns)
 schedule_df.to_csv("final_schedule_balanced.csv", index=False)
 
 print("Balanced two-pass schedule created: final_schedule_balanced.csv")
+
+# ------------------ Report under-scheduled TAs ------------------
+print("\nTAs who did NOT reach their max hours:")
+for emp in max_hours:
+    if scheduled_hours[emp] < max_hours[emp]:
+        print(f"{emp}: {scheduled_hours[emp]}/{max_hours[emp]} hours")
